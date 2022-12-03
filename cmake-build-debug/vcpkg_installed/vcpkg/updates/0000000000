@@ -1,7 +1,0 @@
-Package: vcpkg-cmake-config
-Version: 2022-02-06
-Architecture: x64-linux
-Multi-Arch: same
-Abi: edc986b8bbe336853bf2386c3f0c91e5a28c0c2ecd28ce189ef9ee4e9fc6907b
-Type: Port
-Status: install ok half-installed
